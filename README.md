@@ -33,12 +33,6 @@ This tool removes friction, lowers the chance of errors, and speeds up workflow 
 This project is currently **in development (W.I.P.)**.
 Expect visual changes, new features, and improvements frequently.
 
-## **License**
-
-MIT License (or specify another if you prefer).
-
----
-
 # **README — EffectMaster Show Sequencer (W.I.P.)**
 
 ## **Overview**
